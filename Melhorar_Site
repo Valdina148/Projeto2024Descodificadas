@@ -1,6 +1,1 @@
-git init
-git add README.md 
-git commit -m "first commit" 
-git branch -M main 
-git remote add origin https://github.com/Valdina148/Projeto2024Descodificadas.git
- git push - sua origem principal
+# Iniciando as Devidas mudanças no site de 2023
